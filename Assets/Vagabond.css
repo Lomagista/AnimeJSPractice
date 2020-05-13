@@ -1,0 +1,121 @@
+h1{
+    width: 50vw;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5vw;
+    text-align: center;
+}
+p{
+    width: 50vw;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4vw;
+    text-align: center;
+}
+.img1{
+    background-image: url("Images/1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: fixed;
+    width: 50vw;
+    height: 100vh;
+    left: 50vw;
+    top: 0;
+    opacity: 0.5;
+}
+.img2{
+    background-image: url("Images/2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: fixed;
+    width: 50vw;
+    height: 100vh;
+    left: 50vw;
+    top: 0;
+    opacity: 0;
+}
+.img3{
+    background-image: url("Images/3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: fixed;
+    width: 50vw;
+    height: 100vh;
+    left: 50vw;
+    top: 0;
+    opacity: 0;
+}
+.img4{
+    background-image: url("Images/4.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: fixed;
+    width: 50vw;
+    height: 100vh;
+    left: 50vw;
+    top: 0;
+    opacity: 0;
+}
+.img5{
+    background-image: url("Images/5.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: fixed;
+    width: 50vw;
+    height: 100vh;
+    left: 50vw;
+    top: 0;
+    opacity: 0;
+}
+.img6{
+    background-image: url("Images/6.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: fixed;
+    width: 50vw;
+    height: 100vh;
+    left: 50vw;
+    top: 0;
+    opacity: 0;
+}
+.img7{
+    background-image: url("Images/7.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: fixed;
+    width: 50vw;
+    height: 100vh;
+    left: 50vw;
+    top: 0;
+    opacity: 0;
+}
+.img8{
+    background-image: url("Images/8.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: fixed;
+    width: 50vw;
+    height: 100vh;
+    left: 50vw;
+    top: 0;
+    opacity: 0;
+}
+.img9{
+    background-image: url("Images/9.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: scroll;
+    position: fixed;
+    width: 50vw;
+    height: 100vh;
+    left: 50vw;
+    top: 0;
+    opacity: 0;
+}
